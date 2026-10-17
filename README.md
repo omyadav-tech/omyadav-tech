@@ -1,48 +1,107 @@
-# Hi, I'm Om Prakash Yadav
+<div align="center">
 
-**Web developer in Noida, India** | WordPress, Shopify and React | Technical SEO and GA4
+# Hi, I'm Om Prakash Yadav 👋
 
-I build fast websites that show up on Google and bring in enquiries. I work full-time as a web developer and take freelance projects through **[TheOmDev](https://theomdev.in)**.
+### Web Developer · WordPress · Shopify · React.js · Technical SEO
 
-## What I work on
+I build responsive websites and practical digital experiences that help businesses work better online.
 
-- **Websites and stores:** WordPress, WooCommerce, Shopify, React
-- **Technical SEO:** audits, indexing fixes, schema markup, Core Web Vitals
-- **Tracking and ads:** GA4, Google Tag Manager, Meta Ads
-- **Fixing live sites:** critical errors, plugin conflicts, slow pages
+**Development first. Performance always. SEO built in.**
 
-## Tech
+[![Website](https://img.shields.io/badge/Website-theomdev.in-0866F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theomdev.in)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-071943?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@theomdev.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omyadav08/)
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+</div>
 
-## Featured projects
+---
 
-| Project | What it is |
-| --- | --- |
-| [theomdev-portfolio](https://github.com/omyadav-tech/theomdev-portfolio) | My freelance portfolio site, built with HTML, CSS and JavaScript |
-| [wordpress-debugging-checklist](https://github.com/omyadav-tech/wordpress-debugging-checklist) | The order I follow to fix the WordPress "critical error" on live sites |
-| [technical-seo-audit-checklist](https://github.com/omyadav-tech/technical-seo-audit-checklist) | A checklist and snippets for indexing, schema and redirects |
-| [ga4-gtm-snippets](https://github.com/omyadav-tech/ga4-gtm-snippets) | Copy-ready dataLayer and conversion tracking examples |
-| [travel-together](https://github.com/omyadav-tech/travel-together) | A MERN travel social platform prototype |
+## 👨‍💻 About Me
 
-## Currently
+I'm a web developer and independent freelancer working under **TheOmDev**. I focus on building, customizing, improving, and maintaining websites for business needs.
 
-- Learning more about AI-assisted development and modern JavaScript
-- Open to freelance projects and full-time web developer roles (WordPress, Shopify, React; Delhi NCR or remote)
+- 🧩 Developing websites and e-commerce experiences
+- 🛠️ Working with WordPress, WooCommerce, Shopify, React.js, and Wix
+- ⚡ Improving website performance, usability, and responsiveness
+- 🔎 Conducting technical and on-page SEO audits
+- 📊 Supporting analytics implementation with GA4 and Google Tag Manager
+- 📈 Helping businesses connect their websites with practical digital marketing solutions
+- 🤝 Open to freelance projects, collaborations, and suitable full-time opportunities
 
-## Get in touch
+> I aim to build digital experiences that are useful, maintainable, accessible, and aligned with real business goals.
 
-- Website: [theomdev.in](https://theomdev.in)
-- LinkedIn: [omyadav08](https://www.linkedin.com/in/omyadav08/)
-- Email: info@theomdev.in
+## 🧰 Tech Stack & Tools
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Platforms & E-commerce
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" alt="Wix" />
+</p>
+
+### SEO, Analytics & Growth
+<p>
+  <img src="https://img.shields.io/badge/Technical_SEO-071943?style=flat-square" alt="Technical SEO" />
+  <img src="https://img.shields.io/badge/On--Page_SEO-0866F5?style=flat-square" alt="On-page SEO" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads" />
+</p>
+
+## 🛠️ What I Work On
+
+| Area | Focus |
+|---|---|
+| **Website Development** | Responsive business websites, front-end interfaces, custom features |
+| **WordPress & WooCommerce** | Website customization, store setup, maintenance, troubleshooting |
+| **Shopify** | Store setup, theme customization, storefront improvements |
+| **React.js UI** | Component-based interfaces and responsive user experiences |
+| **Technical Website Audits** | Crawlability, indexability, redirects, broken links, technical issues |
+| **Performance Optimization** | Page speed, image optimization, Core Web Vitals checks |
+| **Analytics & Tracking** | GA4 and Google Tag Manager implementation support |
+| **Digital Growth Support** | On-page SEO and Meta Ads support |
+
+## 🚀 Featured Projects
+
+I'm building out this section with selected projects, code samples, and case studies. Replace the example entries below with public repository links as you publish them.
+
+- **Business Website Development** — responsive layouts, clear service journeys, and conversion-focused pages.
+- **WordPress / WooCommerce Improvements** — customization, troubleshooting, and performance-focused fixes.
+- **Shopify Storefront Enhancements** — theme adjustments and e-commerce user experience improvements.
+- **Technical SEO Audit Toolkit** — documenting repeatable checks for crawling, indexing, redirects, and on-page issues.
+
+> **Portfolio:** [theomdev.in](https://theomdev.in)
+
+## 🌱 Currently Exploring
+
+- Modern React.js patterns and reusable UI components
+- Better website performance and Core Web Vitals workflows
+- Practical technical SEO auditing and issue prioritization
+- AI-assisted development with human review, testing, and maintainability in mind
+
+## 🤝 Let's Connect
+
+Have a website project, need a technical audit, or want to collaborate?
+
+- 🌐 Website: [theomdev.in](https://theomdev.in)
+- 📩 Email: [info@theomdev.in](mailto:info@theomdev.in)
+- 💼 LinkedIn: [Om Prakash Yadav](https://www.linkedin.com/in/omyadav08/)
+
+<div align="center">
+
+**Build. Optimize. Grow.**  
+*TheOmDev — Web Development & Digital Solutions*
+
+</div>
